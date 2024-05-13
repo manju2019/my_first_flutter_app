@@ -40,7 +40,7 @@ class MyApp extends StatelessWidget {
               Container(
              width: 100,
              height: 100,
-             color:Colors.blueGrey
+             color:Colors.pink
              ),
              SizedBox(height: 20,),
              Image.network(
